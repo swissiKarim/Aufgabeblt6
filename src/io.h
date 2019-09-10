@@ -88,7 +88,7 @@ extern BIT read_bit(void);
  * 
  * @param c 
  */
-extern void write_bit(BIT c);
+extern void write_bit(BIT);
 
 /* ------------------------------------------------------------------------- */
 #endif	/* IO_H */
