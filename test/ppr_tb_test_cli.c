@@ -17,7 +17,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <ctype.h>
-
+#include "huffman_common.h"
 #ifdef TESTBENCH
 #include "ppr_tb_logging.h"
 #endif
