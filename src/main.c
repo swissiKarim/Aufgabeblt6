@@ -36,7 +36,6 @@
 
 #include "huffman_common.h"
 #include "huffman.h"
-#include "io.h"
 
 /* ===========================================================================
  * Datentypen
